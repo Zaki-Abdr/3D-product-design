@@ -17,5 +17,10 @@ A 3D model of an environmentally friendly trash bin, designed with usability and
 ![Eco Trash Bin](RENDER.png)
 
 ---
+## 🛠️ Tools Used
+- SolidWorks
+- SolidWorks Visualize (for rendering)
+
+--- 
 
 Feel free to explore the designs above. If you’d like to access the complete design files, don’t hesitate to reach out to me.
